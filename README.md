@@ -1,2 +1,3 @@
 # hello-world
 In the beginning...
+I am a complete novice to coding, but you have to start somewhere :)
